@@ -1,3 +1,3 @@
-Course Project for CS680
+Course Project for BU CS680
 
 Swtich branch for each project
